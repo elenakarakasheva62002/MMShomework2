@@ -1,0 +1,4 @@
+touch numbers3.txt
+cat numbers3.txt
+cat numbers3.txt | sort -n | head -n 1
+cat numbers3.txt | sort -n -r | head -n 1
